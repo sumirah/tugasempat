@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Match Schedule Test</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_fav">Favorit</string>
+
+
+</resources>
